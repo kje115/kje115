@@ -5,7 +5,7 @@
 ### Hi there 👋
 안녕하세요  KJE115의 공간에 오신 것을 환영합니다.
 
-**kje115/kje115** is a ✨
+
 
 ### 📞연락
 <a href="http://www.naver.com"><img src="https://img.shields.io/badge/인스타그램-beige??style=?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
@@ -20,7 +20,7 @@
 
 
 
-
+**kje115/kje115** is a ✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
