@@ -12,8 +12,10 @@
 
 ### 🪪사용 프로그램
 <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/포토샵-beige??style=?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"/></a>
-<a href="https://notefolio.net/"><img src="https://img.shields.io/badge/,일러스트레이-beige??style=?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"/></a>
-<a href="https://notefolio.net/"><img src="https://img.shields.io/badge/,인디자인-beige??style=?style=for-the-badge&logo=Adobe InDesign&logoColor=#FF3366"/></a>
+###### ,
+<a href="https://notefolio.net/"><img src="https://img.shields.io/badge/일러스트레이-beige??style=?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"/></a>
+###### ,
+<a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인디자인-beige??style=?style=for-the-badge&logo=Adobe InDesign&logoColor=#FF3366"/></a>
 
 ###### 편집 프로그램
 <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/깃허브-beige??style=?style=for-the-badge&logoGitHub&logoColor=#181717"/></a>
