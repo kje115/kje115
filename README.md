@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=KJE115's%20home&fontSize=40)
 
 
 
@@ -8,7 +8,7 @@
 **kje115/kje115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer&text=capsule%20render&fontSize=40)
+
 
 Here are some ideas to get you started:
 
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer&text=&fontSize=40)
