@@ -5,8 +5,9 @@
 ### Hi there 👋
 안녕하세요  KJE115의 공간에 오신 것을 환영합니다.
 
-**kje115/kje115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kje115/kje115** is a ✨
 
+### contact📞
 
 
 
