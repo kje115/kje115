@@ -8,7 +8,7 @@
 **kje115/kje115** is a ✨
 
 ### contact📞
-<img src="https://img.shields.io/badge/인스타그램-beige??style=?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/>
+<a href="http://www.naver.com"><img src="https://img.shields.io/badge/인스타그램-beige??style=?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
 
 
 
