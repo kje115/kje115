@@ -19,8 +19,12 @@
 
 ###### 🖥️편집 프로그램
 <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/깃허브-beige??style=?style=for-the-badge&logoGitHub&logoColor=#181717"/></a>
+  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kje115)](https://github.com/kje115/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kje115)](https://github.com/kje115/github-readme-stats)
+  
+  
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=footer&text=&fontSize=40)
 
 
